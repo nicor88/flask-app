@@ -1,0 +1,10 @@
+.DS_Store
+
+# python
+.pytest_cache
+__pycache__
+venv/
+
+# ide
+.idea
+.vscode
